@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a sophomore CS student in Bilkent University.
+Sophomore CS student at Bilkent University.
 <!--
 **elifsutemirel/elifsutemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
